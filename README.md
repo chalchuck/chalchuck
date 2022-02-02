@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Docker, Kubernete and JavaScript
 - 👯 I’m looking to collaborate on open source projects
@@ -11,3 +8,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: me@charlesongao.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chalchuck&layout=compact&theme=dark)](https://github.com/chalchuck/github-readme-stats)
+
+![chalchuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=chalchuck&count_private=true&show_icons=true&theme=dark)
