@@ -1,4 +1,8 @@
-### Hi there 👋
+
+# Hello, folks! 👋
+
+My name is Ongao Charles and I'm a software developer/DevOps engineer. I'm from Nairobi, currently working at UrbanBound. You can find me on [LinkedIn](https://linkedin.com/in/chalchuck).
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Docker, Kubernete and JavaScript
