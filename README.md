@@ -7,7 +7,7 @@ My name is Ongao Charles and I'm a software developer/DevOps engineer. I'm from 
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with learning JavaScript
 - 💬 Ask me about ...
-- 📫 How to reach me: me@charlesongao.com
+- 📫 How to reach me: chalcchuck@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
